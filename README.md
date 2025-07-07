@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-- 💻 I'm a Computer Science student specialized in web-developement**
+- 💻 I'm a Computer Science student specialized in web-developement
 - 🌐 I build full-stack apps using **React, Node.js, Express, MongoDB**
 - 🛠️ I love working on **real-world projects** that solve actual user problems
 - 🌱 Currently learning **React three fiber, and refining 3D skills with Three.js**
@@ -65,15 +65,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acidG9&show_icons=true&theme=tokyonight" alt="stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acidG9&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
 
 ### 🔗 Connect with Me
 
